@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_WorkingWithText\AP_WorkingWithText\obj\Debug\AP_WorkingWithText.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_WorkingWithText\AP_WorkingWithText\obj\Debug\AP_WorkingWithText.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_WorkingWithText\AP_WorkingWithText\obj\Debug\AP_WorkingWithText.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_WorkingWithText\AP_WorkingWithText\bin\Debug\AP_WorkingWithText.exe.config
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_WorkingWithText\AP_WorkingWithText\bin\Debug\AP_WorkingWithText.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_WorkingWithText\AP_WorkingWithText\bin\Debug\AP_WorkingWithText.pdb
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_WorkingWithText\AP_WorkingWithText\obj\Debug\AP_WorkingWithText.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_WorkingWithText\AP_WorkingWithText\obj\Debug\AP_WorkingWithText.pdb
